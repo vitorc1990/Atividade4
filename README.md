@@ -7,6 +7,7 @@
 3 - instalar os modulos necessários, no terminal, através do comando: 
 
 ```$ npm install```
+```$ npm jest```
 
 4  - Por fim só precisará rodar, no terminal, o comando:
 
